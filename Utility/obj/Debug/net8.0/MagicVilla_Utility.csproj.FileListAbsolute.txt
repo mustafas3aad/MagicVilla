@@ -1,0 +1,33 @@
+E:\Visual Studio Projects\MagicVilla\Utility\bin\Debug\net8.0\MagicVilla_Utility.deps.json
+E:\Visual Studio Projects\MagicVilla\Utility\bin\Debug\net8.0\MagicVilla_Utility.dll
+E:\Visual Studio Projects\MagicVilla\Utility\bin\Debug\net8.0\MagicVilla_Utility.pdb
+E:\Visual Studio Projects\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.AssemblyInfo.cs
+E:\Visual Studio Projects\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.dll
+E:\Visual Studio Projects\MagicVilla\Utility\obj\Debug\net8.0\refint\MagicVilla_Utility.dll
+E:\Visual Studio Projects\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.pdb
+E:\Visual Studio Projects\MagicVilla\Utility\obj\Debug\net8.0\ref\MagicVilla_Utility.dll
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\bin\Debug\net8.0\MagicVilla_Utility.deps.json
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\bin\Debug\net8.0\MagicVilla_Utility.dll
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\bin\Debug\net8.0\MagicVilla_Utility.pdb
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.AssemblyInfoInputs.cache
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.AssemblyInfo.cs
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.csproj.CoreCompileInputs.cache
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.dll
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\obj\Debug\net8.0\refint\MagicVilla_Utility.dll
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.pdb
+F:\Mustafa\Courses\Back_End\.Net Core\API\Project\MagicVilla\Utility\obj\Debug\net8.0\ref\MagicVilla_Utility.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\bin\Debug\net8.0\MagicVilla_Utility.deps.json
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\bin\Debug\net8.0\MagicVilla_Utility.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\bin\Debug\net8.0\MagicVilla_Utility.pdb
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.AssemblyInfoInputs.cache
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.AssemblyInfo.cs
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.csproj.CoreCompileInputs.cache
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\refint\MagicVilla_Utility.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.pdb
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\ref\MagicVilla_Utility.dll
