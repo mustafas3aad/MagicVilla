@@ -48,6 +48,30 @@
 - ⚡ **Optimized Data Handling**: EF Core, migrations, caching, pagination, filtering  
 - ✅ **API Validation** and **Error Handling**  
 
+## 📂 Project Structure 
+
+```
+MagicVilla/
+├─ MagicVilla_VillaAPI/        # Provider - .NET 8 Web API
+│  ├─ Controllers/             # API endpoints (Villas, Bookings, Auth...)
+│  ├─ Models/                  # Entity classes
+│  ├─ DTOs/                    # Data Transfer Objects
+│  ├─ Data/                    # DbContext & Migrations
+│  ├─ Repositories/            # Repository interfaces & implementations
+│  ├─ Services/                # Business logic & Token handling
+│  └─ Helpers/Profiles/...     # Extensions, Middleware, AutoMapper profiles
+│
+├─ MagicVilla_Web/             # Consumer - ASP.NET Core MVC
+│  ├─ Controllers/             # MVC controllers
+│  ├─ Views/                   # Razor Views (UI pages)
+│  ├─ wwwroot/                 # Static files (CSS, JS, Images)
+│  ├─ ViewModels/              # Models for UI binding
+│  └─ Services/                # API integration (HttpClient)
+│
+└─ Utility/                    # Shared helpers / common utilities
+```
+
+
 
 
 
