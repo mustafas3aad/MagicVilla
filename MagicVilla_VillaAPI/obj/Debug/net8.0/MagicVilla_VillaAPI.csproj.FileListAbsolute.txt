@@ -529,9 +529,14 @@ F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicV
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MagicVilla_VillaAPI.props
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\staticwebassets.pack.json
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\scopedcss\bundle\MagicVilla_VillaAPI.styles.css
-F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\MagicVilla_VillaAPI.csproj.CopyComplete
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\MagicVilla_VillaAPI.dll
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\refint\MagicVilla_VillaAPI.dll
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\MagicVilla_VillaAPI.pdb
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\MagicVilla_VillaAPI.genruntimeconfig.cache
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\ref\MagicVilla_VillaAPI.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\bin\Debug\net8.0\MagicVilla_VillaAPI.staticwebassets.endpoints.json
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\MagicVilla_VillaAPI.sourcelink.json
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\staticwebassets\msbuild.MagicVilla_VillaAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\MagicVil.890AE825.Up2Date

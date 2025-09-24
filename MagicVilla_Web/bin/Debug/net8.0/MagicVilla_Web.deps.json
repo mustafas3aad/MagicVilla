@@ -2104,7 +2104,10 @@
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "MagicVilla_Utility/1.0.0": {
         "runtime": {
-          "MagicVilla_Utility.dll": {}
+          "MagicVilla_Utility.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "MagicVilla_VillaAPI/1.0.0": {
@@ -2120,7 +2123,10 @@
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
-          "MagicVilla_VillaAPI.dll": {}
+          "MagicVilla_VillaAPI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

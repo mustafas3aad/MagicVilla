@@ -31,3 +31,4 @@ F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicV
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\refint\MagicVilla_Utility.dll
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.pdb
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\ref\MagicVilla_Utility.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\MagicVilla\Utility\obj\Debug\net8.0\MagicVilla_Utility.sourcelink.json
