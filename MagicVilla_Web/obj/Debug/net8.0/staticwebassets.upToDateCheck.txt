@@ -4,6 +4,20 @@ wwwroot\favicon.ico
 wwwroot\images\home\confirmation.jpg
 wwwroot\images\home\slide1.jpg
 wwwroot\images\home\slide2.jpg
+wwwroot\images\Screenshot 2025-09-24 172628.png
+wwwroot\images\Screenshot 2025-09-24 172716.png
+wwwroot\images\Screenshot 2025-09-24 172813.png
+wwwroot\images\Screenshot 2025-09-24 173547.png
+wwwroot\images\Screenshot 2025-09-24 173634.png
+wwwroot\images\Screenshot 2025-09-24 173657.png
+wwwroot\images\Screenshot 2025-09-24 173729.png
+wwwroot\images\Screenshot 2025-09-24 173739.png
+wwwroot\images\Screenshot 2025-09-24 173751.png
+wwwroot\images\Screenshot 2025-09-24 173808.png
+wwwroot\images\Screenshot 2025-09-24 173815.png
+wwwroot\images\Screenshot 2025-09-24 173821.png
+wwwroot\images\Screenshot 2025-09-24 174440.png
+wwwroot\images\Screenshot 2025-09-24 174453.png
 wwwroot\images\villa\villa1.jpg
 wwwroot\images\villa\villa2.jpg
 wwwroot\images\villa\villa3.jpg
